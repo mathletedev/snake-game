@@ -1,2 +1,3 @@
-# snake-game
-The first program I wrote!
+# Snake Game
+
+> The first program I wrote!
